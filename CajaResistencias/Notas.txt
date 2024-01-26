@@ -1,0 +1,1 @@
+Las ranuras para ensamble con otra pieza igual no funciona como se espera, el PLA es muy frágil y las dimensiones dadas no se ensamblan correctamente, se rompe al intentar unirlas.
